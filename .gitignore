@@ -1,0 +1,7 @@
+# будут игнорироваться следующие файлики
+junk.py
+/tmp
+*_old
+*_backup
+Thumbs.db
+.DS_Store
